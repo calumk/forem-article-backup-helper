@@ -1,7 +1,6 @@
 # forem-article-backup-helper
 Download all images on forem for your articles, &amp; generate markdown files
 
-
 ## Steps
 
 ### Backup your forem/dev.to articles
@@ -12,8 +11,7 @@ Download all images on forem for your articles, &amp; generate markdown files
 ### run the index.js in the same directory as articles.json
 - `bun index.js`
 
----
-
+And its done!
 
 ## Ouput 
 
