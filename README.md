@@ -12,5 +12,9 @@ Download all images on forem for your articles, &amp; generate markdown files
 ### run the index.js in the same directory as articles.json
 - `bun index.js`
 
+---
+
+
 ## Ouput 
 
+![example](example.png)
