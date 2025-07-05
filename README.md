@@ -13,6 +13,6 @@ Download all images on forem for your articles, &amp; generate markdown files
 
 And its done!
 
-## Ouput 
+### Output 
 
 ![example](example.png)
